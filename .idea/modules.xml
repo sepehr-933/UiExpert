@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EdgeLedger/.idea/EdgeLedger.iml" filepath="$PROJECT_DIR$/../EdgeLedger/.idea/EdgeLedger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UiExpert.iml" filepath="$PROJECT_DIR$/.idea/UiExpert.iml" />
+    </modules>
+  </component>
+</project>
